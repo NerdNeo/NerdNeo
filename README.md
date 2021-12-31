@@ -23,7 +23,7 @@
 
 
 - 💞️ I’m looking to collaborate on ...<br/><br/>
-      Right now my coding skills are kind novice to intermediate level, I've been messing with HTML and CSS for years, I know a       little JS and SQL, but I'm really just getting back into things after a pretty long break. Eventually I want to find a           great place to work that pays me decent money, but as far as passion projects go, I am always open to ideas (and sharing         some of my own).
+      Right now my coding skills are novice to intermediate level, I've been messing with HTML and CSS for years, I know a             little JS and SQL, but I'm really just getting back into things after a pretty long break. Eventually I want to find a           great place to work that pays me decent money, but as far as passion projects go, I am always open to ideas (and sharing         some of my own).
 
 
 
